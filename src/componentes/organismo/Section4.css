@@ -1,0 +1,6 @@
+#login{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(39, 36, 36);
+    height: 120px;
+}

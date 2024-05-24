@@ -1,0 +1,11 @@
+ #text_title {
+background-color: beige;
+color: black;
+ flex-direction: column;
+ justify-content: flex-end;
+ width: 50vh;
+ display: flex;
+ justify-content: center;
+ margin: 50px;
+
+ }

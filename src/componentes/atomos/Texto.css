@@ -1,0 +1,12 @@
+#text_cards {
+    width: 80%;
+    background-color: beige;
+    border: 2px black solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    color: black;
+    
+}
+

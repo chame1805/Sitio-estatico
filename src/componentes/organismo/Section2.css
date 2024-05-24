@@ -1,0 +1,12 @@
+#section_cards{
+
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    margin: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

@@ -1,0 +1,11 @@
+#cards_text {
+    width: 20%;
+    height: 5%;
+    background-color: darkolivegreen;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;  /* Centra horizontalmente */
+    align-items: center;      /* Centra verticalmente */
+    text-align: center;
+}
